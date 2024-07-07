@@ -77,7 +77,7 @@ leftBtn.addEventListener('click',()=>{
 
 // function that randomly select a person from the array 
 function suprise(){
-    return Math.floor(Math.random() * reviews.length) ;
+    return Math.floor(Math.random() * reviews.length);
  }
 
  //event listner on suprise button
